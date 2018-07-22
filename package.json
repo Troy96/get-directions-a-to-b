@@ -1,0 +1,15 @@
+{
+  "name": "get-directions-a-to-b",
+  "version": "1.0.0",
+  "description": "Get Real-Time Distances between A and B",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuhin Roy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.1"
+  }
+}
