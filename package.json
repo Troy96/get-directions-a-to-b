@@ -1,10 +1,10 @@
 {
-  "name": "get-directions-a-to-b",
+  "name": "get-distance-a-to-b",
   "version": "1.0.0",
   "description": "Get Real-Time Distances between A and B",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+   
   },
   "author": "Tuhin Roy",
   "license": "ISC",
